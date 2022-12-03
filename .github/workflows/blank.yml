@@ -1,5 +1,5 @@
 
-name: Terraform
+name: DeployTerraform
 on:
 
     workflow_dispatch:
