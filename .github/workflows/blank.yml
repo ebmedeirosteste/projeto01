@@ -16,6 +16,6 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: terraforn
-          path: ${{gihub.workspace}}//appservice
+          path: ${{github.workspace}}//appservice
 
    
